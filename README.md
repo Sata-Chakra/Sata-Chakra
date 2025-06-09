@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm Satadal, a passionate engineer with over 7 years of ha
 🛠️ Languages & Tools I Use Often:
 Python | Azure | GeoPandas | Google Earth Engine | AWS SageMaker | Azure Databricks | Scikit-Learn | MMDetection/MMPose | Flask | OpenCV
 
-🌍 Currently focused on building systems that make airports smarter, cities safer, and data more meaningful. Whether it's using facial recognition for non-invasive goat tracking or decoding flight delays through real-time emissions data — I love working on things that push boundaries.
+🌍 Currently focused on building systems that make airports smarter, cities safer, and data more meaningful. Whether it's using facial recognition for non-invasive goat tracking or decoding flight delay reasons through complex real-time data analysis — I love working on things that push boundaries.
 
 📫 Let’s connect:
 Email – sata_chakra@yahoo.com
